@@ -1,5 +1,5 @@
 ## Gaussian-Adaptive Bilateral Filter
-B. H. Chen, Y. S. Tseng, and J. L. Yin
+Matlab implementation of "Gaussian-Adaptive Bilateral Filter." 
 
 [Article about this implemention](https://ieeexplore.ieee.org/document/9200678)
 
